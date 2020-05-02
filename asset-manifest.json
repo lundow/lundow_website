@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/lundow_website/static/css/main.47feddf3.chunk.css",
-    "main.js": "/lundow_website/static/js/main.10e46c29.chunk.js",
-    "main.js.map": "/lundow_website/static/js/main.10e46c29.chunk.js.map",
+    "main.js": "/lundow_website/static/js/main.6c22a29f.chunk.js",
+    "main.js.map": "/lundow_website/static/js/main.6c22a29f.chunk.js.map",
     "runtime-main.js": "/lundow_website/static/js/runtime-main.d0d5b801.js",
     "runtime-main.js.map": "/lundow_website/static/js/runtime-main.d0d5b801.js.map",
     "static/js/2.54585b8f.chunk.js": "/lundow_website/static/js/2.54585b8f.chunk.js",
     "static/js/2.54585b8f.chunk.js.map": "/lundow_website/static/js/2.54585b8f.chunk.js.map",
     "index.html": "/lundow_website/index.html",
-    "precache-manifest.a96590b7b26992cdaf143c5fa5aadf9f.js": "/lundow_website/precache-manifest.a96590b7b26992cdaf143c5fa5aadf9f.js",
+    "precache-manifest.ec5f2c6aa120bcb1d8240f858093e7d7.js": "/lundow_website/precache-manifest.ec5f2c6aa120bcb1d8240f858093e7d7.js",
     "service-worker.js": "/lundow_website/service-worker.js",
     "static/css/main.47feddf3.chunk.css.map": "/lundow_website/static/css/main.47feddf3.chunk.css.map",
     "static/js/2.54585b8f.chunk.js.LICENSE.txt": "/lundow_website/static/js/2.54585b8f.chunk.js.LICENSE.txt",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.d0d5b801.js",
     "static/js/2.54585b8f.chunk.js",
     "static/css/main.47feddf3.chunk.css",
-    "static/js/main.10e46c29.chunk.js"
+    "static/js/main.6c22a29f.chunk.js"
   ]
 }
