@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/lundow_website/static/css/main.d0845f27.chunk.css",
-    "main.js": "/lundow_website/static/js/main.464244d5.chunk.js",
-    "main.js.map": "/lundow_website/static/js/main.464244d5.chunk.js.map",
+    "main.js": "/lundow_website/static/js/main.dfba64fd.chunk.js",
+    "main.js.map": "/lundow_website/static/js/main.dfba64fd.chunk.js.map",
     "runtime-main.js": "/lundow_website/static/js/runtime-main.d0d5b801.js",
     "runtime-main.js.map": "/lundow_website/static/js/runtime-main.d0d5b801.js.map",
-    "static/js/2.54585b8f.chunk.js": "/lundow_website/static/js/2.54585b8f.chunk.js",
-    "static/js/2.54585b8f.chunk.js.map": "/lundow_website/static/js/2.54585b8f.chunk.js.map",
+    "static/js/2.afd08c63.chunk.js": "/lundow_website/static/js/2.afd08c63.chunk.js",
+    "static/js/2.afd08c63.chunk.js.map": "/lundow_website/static/js/2.afd08c63.chunk.js.map",
     "index.html": "/lundow_website/index.html",
-    "precache-manifest.9c587d27cf003e7a6831f0eebbff6471.js": "/lundow_website/precache-manifest.9c587d27cf003e7a6831f0eebbff6471.js",
+    "precache-manifest.673c85f744fb00a54a4a23136bffc0c7.js": "/lundow_website/precache-manifest.673c85f744fb00a54a4a23136bffc0c7.js",
     "service-worker.js": "/lundow_website/service-worker.js",
     "static/css/main.d0845f27.chunk.css.map": "/lundow_website/static/css/main.d0845f27.chunk.css.map",
-    "static/js/2.54585b8f.chunk.js.LICENSE.txt": "/lundow_website/static/js/2.54585b8f.chunk.js.LICENSE.txt",
+    "static/js/2.afd08c63.chunk.js.LICENSE.txt": "/lundow_website/static/js/2.afd08c63.chunk.js.LICENSE.txt",
     "static/media/CV_2020.png": "/lundow_website/static/media/CV_2020.5abd8e60.png",
     "static/media/caret-down.ca82bc74.svg": "/lundow_website/static/media/caret-down.ca82bc74.svg",
     "static/media/github.5001607c.svg": "/lundow_website/static/media/github.5001607c.svg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d0d5b801.js",
-    "static/js/2.54585b8f.chunk.js",
+    "static/js/2.afd08c63.chunk.js",
     "static/css/main.d0845f27.chunk.css",
-    "static/js/main.464244d5.chunk.js"
+    "static/js/main.dfba64fd.chunk.js"
   ]
 }

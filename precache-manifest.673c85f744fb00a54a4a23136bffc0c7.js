@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5b67ecdd8641adc9a177b81a3c298b0",
+    "revision": "a99ac158a9568225948b748f8549714b",
     "url": "/lundow_website/index.html"
   },
   {
-    "revision": "6e7e3fcc44172c6dfd56",
+    "revision": "908a280861502a526196",
     "url": "/lundow_website/static/css/main.d0845f27.chunk.css"
   },
   {
-    "revision": "499803aed681d5945408",
-    "url": "/lundow_website/static/js/2.54585b8f.chunk.js"
+    "revision": "e50cad04511d2dca6afb",
+    "url": "/lundow_website/static/js/2.afd08c63.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/lundow_website/static/js/2.54585b8f.chunk.js.LICENSE.txt"
+    "url": "/lundow_website/static/js/2.afd08c63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e7e3fcc44172c6dfd56",
-    "url": "/lundow_website/static/js/main.464244d5.chunk.js"
+    "revision": "908a280861502a526196",
+    "url": "/lundow_website/static/js/main.dfba64fd.chunk.js"
   },
   {
     "revision": "cf3c3a6716a1fe329e9f",
