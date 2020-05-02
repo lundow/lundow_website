@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca133d9037b7ae5305470133e089567f",
+    "revision": "e5b67ecdd8641adc9a177b81a3c298b0",
     "url": "/lundow_website/index.html"
   },
   {
-    "revision": "3a818fd0300d3bb25646",
-    "url": "/lundow_website/static/css/main.47feddf3.chunk.css"
+    "revision": "6e7e3fcc44172c6dfd56",
+    "url": "/lundow_website/static/css/main.d0845f27.chunk.css"
   },
   {
     "revision": "499803aed681d5945408",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lundow_website/static/js/2.54585b8f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a818fd0300d3bb25646",
+    "revision": "6e7e3fcc44172c6dfd56",
     "url": "/lundow_website/static/js/main.464244d5.chunk.js"
   },
   {

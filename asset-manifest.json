@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lundow_website/static/css/main.47feddf3.chunk.css",
+    "main.css": "/lundow_website/static/css/main.d0845f27.chunk.css",
     "main.js": "/lundow_website/static/js/main.464244d5.chunk.js",
     "main.js.map": "/lundow_website/static/js/main.464244d5.chunk.js.map",
     "runtime-main.js": "/lundow_website/static/js/runtime-main.d0d5b801.js",
@@ -8,9 +8,9 @@
     "static/js/2.54585b8f.chunk.js": "/lundow_website/static/js/2.54585b8f.chunk.js",
     "static/js/2.54585b8f.chunk.js.map": "/lundow_website/static/js/2.54585b8f.chunk.js.map",
     "index.html": "/lundow_website/index.html",
-    "precache-manifest.e5f79959a1477364357a0959408e79b2.js": "/lundow_website/precache-manifest.e5f79959a1477364357a0959408e79b2.js",
+    "precache-manifest.9c587d27cf003e7a6831f0eebbff6471.js": "/lundow_website/precache-manifest.9c587d27cf003e7a6831f0eebbff6471.js",
     "service-worker.js": "/lundow_website/service-worker.js",
-    "static/css/main.47feddf3.chunk.css.map": "/lundow_website/static/css/main.47feddf3.chunk.css.map",
+    "static/css/main.d0845f27.chunk.css.map": "/lundow_website/static/css/main.d0845f27.chunk.css.map",
     "static/js/2.54585b8f.chunk.js.LICENSE.txt": "/lundow_website/static/js/2.54585b8f.chunk.js.LICENSE.txt",
     "static/media/CV_2020.png": "/lundow_website/static/media/CV_2020.5abd8e60.png",
     "static/media/caret-down.ca82bc74.svg": "/lundow_website/static/media/caret-down.ca82bc74.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.d0d5b801.js",
     "static/js/2.54585b8f.chunk.js",
-    "static/css/main.47feddf3.chunk.css",
+    "static/css/main.d0845f27.chunk.css",
     "static/js/main.464244d5.chunk.js"
   ]
 }
