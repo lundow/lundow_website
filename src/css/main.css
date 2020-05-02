@@ -1,0 +1,80 @@
+.home__icon g {
+    fill: #FFFFFF;
+    transition-duration: 1s;
+    scale: 0.2;
+}
+
+svg.home__icon {
+    width: 100px;
+    height: 100px;
+}
+
+.home__icon g:hover {
+    fill: #FE5F55;
+    width: 100.362px;
+    height: 100.362px;
+}
+
+#projectsIcon g:hover {
+    fill: #282c34;
+    width: 100.362px;
+    height: 100.362px;
+}
+
+.home__icon {
+    transition: margin-top .5s;
+
+}
+
+.icon__container {
+    align-self: center;
+    height: 130px;
+}
+
+.social_container {
+    display:flex;
+    align-self:center;
+    width:30vw;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:space-around;
+}
+.home__icon:hover {
+    margin-top: 20px;
+}
+
+svg.social__icon {
+    width: 5vw;
+    height: 5vw;
+}
+.social__icon g {
+    fill: #FFFFFF;
+    transition-duration: 1s;
+    scale: 0.2;
+}
+
+.social__icon g:hover {
+    cursor:pointer;
+    fill: #FE5F55;
+    width: 100.362px;
+    height: 100.362px;
+}
+
+
+@media screen and (max-width: 800px){
+    svg.social__icon {
+        width: 10vw;
+        height: 10vw;
+    }
+
+.social_container {
+    display:flex;
+    align-self:center;
+    height:50vw;
+    width:30vw;
+    flex-direction:column;
+    justify-content:space-between;
+    align-items:center;
+    
+}
+}

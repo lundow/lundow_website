@@ -1,0 +1,38 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+.mainH1 {
+    opacity:1;
+    text-align:center;
+    font-weight: bold;
+    font-size: 10vw;
+    -webkit-animation: slide-in-top-data-v-7a7b71aa .8s;
+    animation: slide-in-top-data-v-7a7b71aa .8s;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.17em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+    transition: opacity 0.5s;
+}
+
+.mainSpanText {
+    color: #485460;
+    font-size: 3vw;
+    display: block;
+}
+
+.aboutSpanText {
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    color: white;
+    font-size: 3vw;
+    display: block;
+
+}
+
+a{
+    color:white;
+}
