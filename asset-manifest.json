@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/lundow_website/static/css/main.d0845f27.chunk.css",
-    "main.js": "/lundow_website/static/js/main.dfba64fd.chunk.js",
-    "main.js.map": "/lundow_website/static/js/main.dfba64fd.chunk.js.map",
-    "runtime-main.js": "/lundow_website/static/js/runtime-main.d0d5b801.js",
-    "runtime-main.js.map": "/lundow_website/static/js/runtime-main.d0d5b801.js.map",
-    "static/js/2.afd08c63.chunk.js": "/lundow_website/static/js/2.afd08c63.chunk.js",
-    "static/js/2.afd08c63.chunk.js.map": "/lundow_website/static/js/2.afd08c63.chunk.js.map",
-    "index.html": "/lundow_website/index.html",
-    "precache-manifest.ec9b4a5899b84d5f1a2e6eb390c34d37.js": "/lundow_website/precache-manifest.ec9b4a5899b84d5f1a2e6eb390c34d37.js",
-    "service-worker.js": "/lundow_website/service-worker.js",
-    "static/css/main.d0845f27.chunk.css.map": "/lundow_website/static/css/main.d0845f27.chunk.css.map",
-    "static/js/2.afd08c63.chunk.js.LICENSE.txt": "/lundow_website/static/js/2.afd08c63.chunk.js.LICENSE.txt",
-    "static/media/CV_2020.png": "/lundow_website/static/media/CV_2020.5abd8e60.png",
-    "static/media/caret-down.ca82bc74.svg": "/lundow_website/static/media/caret-down.ca82bc74.svg",
-    "static/media/github.5001607c.svg": "/lundow_website/static/media/github.5001607c.svg",
-    "static/media/instagram.9672db30.svg": "/lundow_website/static/media/instagram.9672db30.svg",
-    "static/media/linkedIn.1a5ae916.svg": "/lundow_website/static/media/linkedIn.1a5ae916.svg",
-    "static/media/react.827c6984.svg": "/lundow_website/static/media/react.827c6984.svg"
+    "main.css": "/static/css/main.d0845f27.chunk.css",
+    "main.js": "/static/js/main.0492223b.chunk.js",
+    "main.js.map": "/static/js/main.0492223b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0353dd3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0353dd3.js.map",
+    "static/js/2.afd08c63.chunk.js": "/static/js/2.afd08c63.chunk.js",
+    "static/js/2.afd08c63.chunk.js.map": "/static/js/2.afd08c63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.935e5da1bc455b3e5083c9580e18d909.js": "/precache-manifest.935e5da1bc455b3e5083c9580e18d909.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d0845f27.chunk.css.map": "/static/css/main.d0845f27.chunk.css.map",
+    "static/js/2.afd08c63.chunk.js.LICENSE.txt": "/static/js/2.afd08c63.chunk.js.LICENSE.txt",
+    "static/media/CV_2020.png": "/static/media/CV_2020.5abd8e60.png",
+    "static/media/caret-down.ca82bc74.svg": "/static/media/caret-down.ca82bc74.svg",
+    "static/media/github.5001607c.svg": "/static/media/github.5001607c.svg",
+    "static/media/instagram.9672db30.svg": "/static/media/instagram.9672db30.svg",
+    "static/media/linkedIn.1a5ae916.svg": "/static/media/linkedIn.1a5ae916.svg",
+    "static/media/react.827c6984.svg": "/static/media/react.827c6984.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0d5b801.js",
+    "static/js/runtime-main.d0353dd3.js",
     "static/js/2.afd08c63.chunk.js",
     "static/css/main.d0845f27.chunk.css",
-    "static/js/main.dfba64fd.chunk.js"
+    "static/js/main.0492223b.chunk.js"
   ]
 }
