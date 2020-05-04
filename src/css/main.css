@@ -5,8 +5,8 @@
 }
 
 svg.home__icon {
-    width: 100px;
-    height: 100px;
+    width: 10vw;
+    height: 10vh;
 }
 
 .home__icon g:hover {

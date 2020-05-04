@@ -1,12 +1,13 @@
 import React from "react";
 import "../css/text.css";
+import "../css/main.css";
 import CV from "../icons/CV_2020.png";
 const About = (props) => {
   return (
     <div style={styles.container} id="about">
       <div style={styles.content}>
 
-        <span className="aboutSpanText">RESUME</span>
+        <h1 className="mainH1">RESUME</h1>
 
         <img src={CV} style={styles.resume}></img>
       </div>
@@ -17,7 +18,7 @@ const About = (props) => {
 let styles = {
   container: {
     backgroundColor: "#F9B5AC",
-    minHeight: "100vh",
+    minHeight: "80vh",
     display: "flex",
     color: "white",
     flexDirection: "column",
@@ -34,7 +35,7 @@ let styles = {
   resume:{
     alignSelf:"center",
     maxWidth:"50vw",
-    minWidth:"60vh"
+    minWidth:"50vh"
   }
 };
 export default About;

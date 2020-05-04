@@ -6,7 +6,7 @@ const About = (props) => {
   return (
     <div style={styles.container} id="about">
       <div style={styles.content}>
-        <p> made by erik lundow - © 2020
+        <p> made by erik lundow - © 2020 <br/>
         contact: <a href="mailto:eriklundow@gmail.com">eriklundow@gmail.com</a></p>    
       </div>
     </div>
@@ -26,7 +26,6 @@ let styles = {
   content: {
     display: "flex",
     flexWrap: "wrap",
-    width:"18rem",
     flexDirection: "column",
     alignItems: "center",
     alignSelf:"center",
