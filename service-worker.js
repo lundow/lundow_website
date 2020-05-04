@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lundow_website/precache-manifest.19dddfeddd16e2b56a22448d9b6684dc.js"
+  "/lundow_website/precache-manifest.ec9b4a5899b84d5f1a2e6eb390c34d37.js"
 );
 
 self.addEventListener('message', (event) => {

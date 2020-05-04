@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fd2fa3e98f47a81a69ce92f161b75f3",
+    "revision": "d1378bc34531e42d8361e39d9f2457bb",
     "url": "/lundow_website/index.html"
   },
   {
