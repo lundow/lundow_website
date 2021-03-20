@@ -1,7 +1,6 @@
 .home__icon g {
     fill: #FFFFFF;
     transition-duration: 1s;
-    scale: 0.2;
 }
 
 svg.home__icon {
@@ -13,6 +12,7 @@ svg.home__icon {
     fill: #FE5F55;
     width: 100.362px;
     height: 100.362px;
+    cursor: pointer;
 }
 
 #projectsIcon g:hover {
@@ -29,6 +29,9 @@ svg.home__icon {
 .icon__container {
     align-self: center;
     height: 130px;
+}
+.icon__container:hover {
+  cursor: pointer;
 }
 
 .social_container {
@@ -47,10 +50,12 @@ svg.social__icon {
     width: 5vw;
     height: 5vw;
 }
-.social__icon g {
+.social__icon {
     fill: #FFFFFF;
+}
+.social__icon g {
+    fill: inherit;
     transition-duration: 1s;
-    scale: 0.2;
 }
 
 .social__icon g:hover {
@@ -58,6 +63,11 @@ svg.social__icon {
     fill: #FE5F55;
     width: 100.362px;
     height: 100.362px;
+}
+
+.social__icon:hover {
+    cursor:pointer;
+    fill: #FE5F55;
 }
 
 

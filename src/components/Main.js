@@ -37,13 +37,13 @@ const Main = (props) => {
 
           <div style={props}>
               <div className={"social_container"}>
-                <div onClick={()=> window.open("https://www.linkedin.com/in/erik-lundow-24859a19a/", "_blank")}>
+                <div className={"social__icon"} onClick={()=> window.open("https://www.linkedin.com/in/erik-lundow-24859a19a/", "_blank")}>
                   <LinkedIn className="social__icon"></LinkedIn>
                 </div>
-                <div onClick={()=> window.open("https://www.github.com/lundow", "_blank")}>
+                <div className={"social__icon"} onClick={()=> window.open("https://www.github.com/lundow", "_blank")}>
                   <Github className="social__icon"></Github>
                 </div>
-                <div onClick={()=> window.open("https://www.facebook.com/lundow", "_blank")}>
+                <div className={"social__icon"} onClick={()=> window.open("https://www.facebook.com/lundow", "_blank")}>
                   <Instagram className="social__icon"></Instagram>    
                 </div>
               </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/text.css";
 import "../css/main.css";
-import CV from "../icons/CV_2020.png";
+import CV from "../icons/CV_2021.png";
 const About = (props) => {
   return (
     <div style={styles.container} id="about">
